@@ -26,7 +26,7 @@ class CalculadoraJframe extends JFrame {
       panel.add(new JButton("5"));
       panel.add(new JButton("6"));
       panel.add(new JButton("*"));
-      panel.add(new JButton("MEM"));
+      panel.add(new JButton("MEaM"));
       panel.add(new JButton("1"));
       panel.add(new JButton("2"));
       panel.add(new JButton("3"));
