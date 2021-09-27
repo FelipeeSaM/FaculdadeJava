@@ -15,8 +15,9 @@ class CalculadoraJframe extends JFrame {
        panel.add(new JButton("Tan"));
        panel.add(new JButton("Exp"));
        panel.add(new JButton("+-"));
+       panel.setSize(600,600);
  
- panel.add(new JButton("%"));
+      panel.add(new JButton("%"));
       panel.add(new JButton("7"));
       panel.add(new JButton("8"));
       panel.add(new JButton("9"));
